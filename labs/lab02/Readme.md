@@ -255,8 +255,14 @@ En este ejemplo se implementa el caso de
     
 
     `npm run producer`
-    
+
     `npm run consumer`
+ 
+    ![alt](https://github.com/jatuncarc/Kafka/blob/master/labs/lab02/img/producer_consumer.png?raw=true)
+
+- Adicionalmente, dentro de los contenedores creados, se puede usar la herramienta UI for Apache Kafka ingresado a http://localhost:9000
+
+    ![alt](https://github.com/jatuncarc/Kafka/blob/master/labs/lab02/img/ui-for-Apache-kafka.png?raw=true)
 
 
     Referencia:
