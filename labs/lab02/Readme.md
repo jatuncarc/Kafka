@@ -265,5 +265,8 @@ En este ejemplo se implementa el caso de
     ![alt](https://github.com/jatuncarc/Kafka/blob/master/labs/lab02/img/ui-for-Apache-kafka.png?raw=true)
 
 
-    Referencia:
-  [https://github.com/billonline33/kafka-nodejs-tutorial](https://github.com/billonline33/kafka-nodejs-tutorial)
+    Referencias:
+
+    https://github.com/billonline33/kafka-nodejs-tutorial
+
+    https://medium.com/@mustafaguc/how-to-easily-deploy-apache-kafka-on-kubernetes-or-locally-3375cc9d2015
